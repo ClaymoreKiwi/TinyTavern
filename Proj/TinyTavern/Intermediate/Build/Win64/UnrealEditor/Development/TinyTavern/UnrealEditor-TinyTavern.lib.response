@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TinyTavern.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\TinyTavernEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\TinyTavern.init.gen.cpp.obj"
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\TinyTavernGameModeBase.gen.cpp.obj"
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\TinyTavern.cpp.obj"
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\TinyTavernGameModeBase.cpp.obj"
+"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\Default.rc2.res"
+/OUT:"C:\Users\tingl\Desktop\TinyTavern\TinyTavern\Proj\TinyTavern\Intermediate\Build\Win64\UnrealEditor\Development\TinyTavern\UnrealEditor-TinyTavern.lib"

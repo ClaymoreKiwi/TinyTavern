@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\source\\tinytavern\\tinytaverngamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\tinytaverneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\unrealeditor\\development\\tinytavern\\definitions.tinytavern.h",
+            "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\source\\tinytavern\\tinytaverngamemodebase.h",
+            "e:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\unrealeditor\\inc\\tinytavern\\uht\\tinytaverngamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

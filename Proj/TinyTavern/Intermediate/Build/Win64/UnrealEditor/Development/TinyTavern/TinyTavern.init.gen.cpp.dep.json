@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\unrealeditor\\inc\\tinytavern\\uht\\tinytavern.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\tinytaverneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tingl\\desktop\\tinytavern\\tinytavern\\proj\\tinytavern\\intermediate\\build\\win64\\unrealeditor\\development\\tinytavern\\definitions.tinytavern.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

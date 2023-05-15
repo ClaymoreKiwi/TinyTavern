@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TinyTavern",
+			"Path": "C:\\Users\\tingl\\Desktop\\TinyTavern\\TinyTavern\\Proj\\TinyTavern\\Source\\TinyTavern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TinyTavernEditor",
+			"Path": "C:\\Users\\tingl\\Desktop\\TinyTavern\\TinyTavern\\Proj\\TinyTavern\\Source\\TinyTavernEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tingl\\Desktop\\TinyTavern\\TinyTavern\\Proj\\TinyTavern\\Source\\TinyTavern\\TinyTavern.Build.cs",
+		"C:\\Users\\tingl\\Desktop\\TinyTavern\\TinyTavern\\Proj\\TinyTavern\\Source\\TinyTavern.Target.cs",
+		"C:\\Users\\tingl\\Desktop\\TinyTavern\\TinyTavern\\Proj\\TinyTavern\\Source\\TinyTavernEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
